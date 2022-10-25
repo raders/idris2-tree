@@ -1,4 +1,4 @@
-package idris2-tree
+package rosetree
 version = 0.1.0
 authors = "Scott Rader"
 brief = "Rose tree and zipper"
