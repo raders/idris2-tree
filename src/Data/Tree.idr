@@ -1,14 +1,5 @@
 -- copied from Haskell Data.Tree
-module Tree
-
-import Data.Either
-import Data.List
-
---%default total
-
---
--- Tree
---
+module Data.Tree
 
 public export
 record Tree a where

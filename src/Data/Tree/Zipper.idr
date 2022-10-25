@@ -1,12 +1,8 @@
 -- copied from Haskell Data.Tree.Zipper
-module Zipper
+module Data.Tree.Zipper
 
-import Data.Either
 import Data.List
-
-import Tree
-
---%default total
+import Data.Tree
 
 export
 data Empty a = E
